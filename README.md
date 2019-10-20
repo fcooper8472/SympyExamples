@@ -1,0 +1,2 @@
+# SympyExamples
+Some SymPy examples
